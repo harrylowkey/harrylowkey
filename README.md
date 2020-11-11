@@ -4,6 +4,14 @@ Hi there, my name is Hong Quang Dang and I'm working as a Backend Developer! I c
 - 🔭 I’m currently working on Human Resources Management Software Project
 - 🌱 I’m currently learning Typescript and NestJs
 
+## 🔧 Technologies & Stacks
+![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 ## &#x270d; Blog & Writing
 Some blogs I did translate and write on [CodersX](https://coders-x.com)
@@ -15,15 +23,6 @@ Some blogs I did translate and write on [CodersX](https://coders-x.com)
 - *[Execution Context và Execution Stack trong Javascript](https://coders-x.com/execution-context-va-execution-stack-trong-javascript/)*
 - *[Kỹ năng quan trọng nhất của một Developer](https://coders-x.com/ky-nang-quan-trong-nhat-cua-mot-developer/)*
 - *[Phương pháp học](https://coders-x.com/hoc-phuong-phap-hoc/)*
-
-## 🔧 Technologies & Stacks
-![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
