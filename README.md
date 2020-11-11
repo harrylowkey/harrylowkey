@@ -1,5 +1,4 @@
-# ✨ Hello World ✨
-## ⚡ Introduction
+## ✨ Hello World ✨
 Hi there, my name is Hong Quang Dang and I'm working as a Backend Developer! I come from Ha Noi Viet Nam, currently living in Da Nang city and working at ✨ *[Corize Co.](https://corize.co.jp/en/)* ✨.
 
 - 🔭 I’m currently working on Human Resources Management Software Project
@@ -36,14 +35,11 @@ Some blogs I did translate and write on [CodersX](https://coders-x.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongquangraem&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![hongquangraem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hongquangraem&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## Spotify Playing 🎧
+<img align="right" alt="GIF" height="220px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-[![Spotify](https://spotify-mauve.vercel.app/api/spotify)](https://open.spotify.com/user/777k9eqztjxwkywl5ba3e0z75)
+[![Spotify](https://spotify-e1dwlkj4j.vercel.app/api/spotify)](https://open.spotify.com/user/777k9eqztjxwkywl5ba3e0z75)
 
 ## 📫 Reach out to me on
 [![Header](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](danghongquang99@gmail.com)
@@ -51,3 +47,9 @@ Some blogs I did translate and write on [CodersX](https://coders-x.com)
 [![Header](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge)](https://soundcloud.com/spacemanakaraem/)
 [![Header](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-quang-75b744157/)
 [![Header](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6o-ZxtgHsO_Q40S9aRe_fA?view_as=subscriber/)
+
+{"access_token":"BQDZ75ei1i_FCDKa5vrscWL2KwYW_WvmOAWojcx5SiF2u276Pdut2xJYtBpWiXatFZf0AJlIqpGbZ1RzN8-XOcxyrJp_QHEw3ytw22PdQyIks1Tb5K1RVfKjxI8Djgacrousbb3m73qayW3v9FXv55RbIBj0jwSDhd2CVy3W86TxrQ","token_type":"Bearer","expires_in":3600,"refresh_token":"AQC-Ud1T3eFSCXLTnr15ksvQEQjTtmynrTfPH3iNGbYRjRwm_M-dI9xS8PWTuzhY3Ui1_yYIOCLsC12H5v_PZmWqzcuh7_v0bW5aYiu6S4xL15ZWjo71ZKirsrl4e89Hxs4","scope":"user-read-currently-playing user-read-recently-played"}
+
+356cdcac962149f9b90d3ec22e044312 bd97040abb9144b38b9b9df890308a7a
+
+https://accounts.spotify.com/authorize?client_id=356cdcac962149f9b90d3ec22e044312&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
