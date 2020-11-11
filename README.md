@@ -13,6 +13,15 @@ Hi there, my name is Hong Quang Dang and I'm working as a Backend Developer! I c
 ![](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
+## &#x1f4c8; GitHub Stats
+
+[![hongquangraem's github stats](https://github-readme-stats.vercel.app/api?username=hongquangraem&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Spotify Playing 🎧
+<img align="right" alt="GIF" height="220px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+[![Spotify](https://spotify-e1dwlkj4j.vercel.app/api/spotify)](https://open.spotify.com/user/777k9eqztjxwkywl5ba3e0z75)
+
 ## &#x270d; Blog & Writing
 Some blogs I did translate and write on [CodersX](https://coders-x.com)
 - *[Destructuring Part 1](https://coders-x.com/destructuring-in-javascript-phan-1/)*
@@ -23,16 +32,6 @@ Some blogs I did translate and write on [CodersX](https://coders-x.com)
 - *[Execution Context và Execution Stack trong Javascript](https://coders-x.com/execution-context-va-execution-stack-trong-javascript/)*
 - *[Kỹ năng quan trọng nhất của một Developer](https://coders-x.com/ky-nang-quan-trong-nhat-cua-mot-developer/)*
 - *[Phương pháp học](https://coders-x.com/hoc-phuong-phap-hoc/)*
-
-## &#x1f4c8; GitHub Stats
-
-[![hongquangraem's github stats](https://github-readme-stats.vercel.app/api?username=hongquangraem&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Spotify Playing 🎧
-<img align="right" alt="GIF" height="220px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-[![Spotify](https://spotify-e1dwlkj4j.vercel.app/api/spotify)](https://open.spotify.com/user/777k9eqztjxwkywl5ba3e0z75)
 
 ## 📫 Reach out to me on
 [![Header](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](danghongquang99@gmail.com)
