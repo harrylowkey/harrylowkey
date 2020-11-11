@@ -47,9 +47,3 @@ Some blogs I did translate and write on [CodersX](https://coders-x.com)
 [![Header](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge)](https://soundcloud.com/spacemanakaraem/)
 [![Header](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-quang-75b744157/)
 [![Header](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6o-ZxtgHsO_Q40S9aRe_fA?view_as=subscriber/)
-
-{"access_token":"BQDZ75ei1i_FCDKa5vrscWL2KwYW_WvmOAWojcx5SiF2u276Pdut2xJYtBpWiXatFZf0AJlIqpGbZ1RzN8-XOcxyrJp_QHEw3ytw22PdQyIks1Tb5K1RVfKjxI8Djgacrousbb3m73qayW3v9FXv55RbIBj0jwSDhd2CVy3W86TxrQ","token_type":"Bearer","expires_in":3600,"refresh_token":"AQC-Ud1T3eFSCXLTnr15ksvQEQjTtmynrTfPH3iNGbYRjRwm_M-dI9xS8PWTuzhY3Ui1_yYIOCLsC12H5v_PZmWqzcuh7_v0bW5aYiu6S4xL15ZWjo71ZKirsrl4e89Hxs4","scope":"user-read-currently-playing user-read-recently-played"}
-
-356cdcac962149f9b90d3ec22e044312 bd97040abb9144b38b9b9df890308a7a
-
-https://accounts.spotify.com/authorize?client_id=356cdcac962149f9b90d3ec22e044312&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
