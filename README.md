@@ -27,14 +27,14 @@ Some blogs I did translate and write on [CodersX](https://coders-x.com)
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" height="110px"> [![hongquangraem's github stats](https://github-readme-stats.vercel.app/api?username=hongquangraem&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <img/>
+[![hongquangraem's github stats](https://github-readme-stats.vercel.app/api?username=hongquangraem&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" height="220px"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongquangraem&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <img/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongquangraem&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="left" height="220px"> [![Coders Tokyo Backend Repo](https://github-readme-stats.vercel.app/api/pin/?username=hongquangraem&repo=coders-tokyo-forum-backend&theme=radical&show-owner=true)](https://github.com/hongquangraem/coders-tokyo-forum-backend) <img/>
+[![Coders Tokyo Backend Repo](https://github-readme-stats.vercel.app/api/pin/?username=hongquangraem&repo=coders-tokyo-forum-backend&theme=radical&show-owner=true)](https://github.com/hongquangraem/coders-tokyo-forum-backend)
 
-<img align="right" height="220px">[![Coders Tokyo Backend Repo](https://github-readme-stats.vercel.app/api/pin/?username=hongquangraem&repo=coders-tokyo-forum-frontend&theme=radical&show-owner=true)](https://github.com/hongquangraem/coders-tokyo-forum-frontend)</img>
+[![Coders Tokyo Backend Repo](https://github-readme-stats.vercel.app/api/pin/?username=hongquangraem&repo=coders-tokyo-forum-frontend&theme=radical&show-owner=true)](https://github.com/hongquangraem/coders-tokyo-forum-frontend)
 
 
 ## Spotify Playing 🎧
