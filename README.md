@@ -1,12 +1,16 @@
 
 ## ✨ Hello World ✨
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/4a96b718f96ee8e5e91c849394449fc1/tenor.gif">
+<img align="right" alt="Coding" width="300" height="250" src="https://media.tenor.com/images/4a96b718f96ee8e5e91c849394449fc1/tenor.gif">
 
-Hi there, my name is Hong Quang Dang and I'm working as a Backend Developer! I come from Ha Noi Viet Nam, currently living in Da Nang city and working at ✨ *[Corize co.](https://corize.co.jp/en/)* ✨.
+Hi there, my name is Hong Quang Dang and I'm working as a Backend Developer! I come from Ha Noi Viet Nam, currently living in Da Nang and working at ✨ *[Corize co.](https://corize.co.jp/en/)* ✨.
 
-- 🔭 I’m currently working on Human Resources Management Software Project
-- 🌱 I’m currently learning Typescript and NestJs
+- 🔭 I’m currently developing a Human Resources Management Software Project
+- 🌱 I’m learning Typescript and NestJs
+- 👯 I'm curious to learn and talk more about database, network, devops, server
 
+<br></br>
+<br></br>
+<br></br>
 ## 🔧 Technologies & Stacks
 ![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
