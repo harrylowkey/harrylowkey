@@ -10,8 +10,6 @@ I come from Ha Noi Viet Nam, currently living in Da Nang and working at ✨ *[Co
 - 👯 I'm curious to learn and talk more about database, network, server, devops
 
 <br></br>
-<br></br>
-<br></br>
 ## 🔧 Technologies & Stacks
 ![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
