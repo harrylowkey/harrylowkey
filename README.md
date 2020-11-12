@@ -1,5 +1,8 @@
+
 ## ✨ Hello World ✨
-Hi there, my name is Hong Quang Dang and I'm working as a Backend Developer! I come from Ha Noi Viet Nam, currently living in Da Nang city and working at ✨ *[Corize Co.](https://corize.co.jp/en/)* ✨.
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/4a96b718f96ee8e5e91c849394449fc1/tenor.gif">
+
+Hi there, my name is Hong Quang Dang and I'm working as a Backend Developer! I come from Ha Noi Viet Nam, currently living in Da Nang city and working at ✨ *[Corize co.](https://corize.co.jp/en/)* ✨.
 
 - 🔭 I’m currently working on Human Resources Management Software Project
 - 🌱 I’m currently learning Typescript and NestJs
