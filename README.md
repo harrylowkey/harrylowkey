@@ -19,10 +19,6 @@ I come from Ha Noi Viet Nam, currently living in Da Nang and working at *[Corize
 ![](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
-
-[![hongquangraem's github stats](https://github-readme-stats.vercel.app/api?username=hongquangraem&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Spotify Playing 🎧
 <img align="right" alt="GIF" height="220px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
