@@ -24,17 +24,6 @@ I come from Ha Noi Viet Nam, currently living in Da Nang and working at *[Corize
 
 [![Spotify](https://spotify-e1dwlkj4j.vercel.app/api/spotify)](https://open.spotify.com/user/777k9eqztjxwkywl5ba3e0z75)
 
-## &#x270d; Blog & Writing
-Some blogs I did translate and write on [CodersX](https://coders-x.com)
-- *[Destructuring Part 1](https://coders-x.com/destructuring-in-javascript-phan-1/)*
-- *[Destructuring Part 2](https://coders-x.com/destructuring-in-javascript-phan-2/)*
-- *[Who am I?](https://coders-x.com/who-am-i-and-connecting-the-dots-story/)*
-- *[Lợi ích & hố đen & giải pháp trong quá trình tự học lập trình (Phần 1)](https://coders-x.com/loi-ich-ho-den-giai-phap-trong-qua-trinh-tu-hoc-lap-trinh-phan-1/)*
-- *[Lợi ích & hố đen & giải pháp trong quá trình tự học lập trình (Phần 2)](https://coders-x.com/loi-ich-ho-den-giai-phap-trong-qua-trinh-tu-hoc-lap-trinh-phan-2/)*
-- *[Execution Context và Execution Stack trong Javascript](https://coders-x.com/execution-context-va-execution-stack-trong-javascript/)*
-- *[Kỹ năng quan trọng nhất của một Developer](https://coders-x.com/ky-nang-quan-trong-nhat-cua-mot-developer/)*
-- *[Phương pháp học](https://coders-x.com/hoc-phuong-phap-hoc/)*
-
 ## 📫 Reach out to me on
 [![Header](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/spaceraem/)
 [![Header](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-quang-75b744157/)
