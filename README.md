@@ -3,9 +3,8 @@
 <img align="right" alt="Coding" width="300" height="250" src="https://media.tenor.com/images/4a96b718f96ee8e5e91c849394449fc1/tenor.gif">
 
 Hi there, my name is Hong Quang Dang and I'm working as a Backend Developer! <br>
-I am currently living in Da Nang and working at *[Corize co.](https://corize.co.jp/en/)*
+I am currently living in Da Nang and working at [Hodfords](https://www.facebook.com/Hodfords-Viet-Nam-102346665309152).
 
-- 🔭 I’m currently developing a Human Resources Management Software Project
 - 🌱 I’m learning Typescript and NestJs
 - 👯 I'm curious to learn and talk more about database, network, server, devops
 
