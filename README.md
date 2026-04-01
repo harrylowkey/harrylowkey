@@ -21,75 +21,19 @@
 
 ---
 
-<h2 align="center">&#9881; NUTRITION FACTS &#9881;</h2>
+<h2 align="center">&#9881; INGREDIENTS &#9881;</h2>
 
-<p align="center"><sub>Serving Size: 1 Entire Developer &bull; Servings Per Container: Look, you only get one of me</sub></p>
+<p align="center">
+  <b>ACTIVE INGREDIENTS:</b> Node.js, NestJS, TypeScript (the <code>any</code>-free kind), Microservices (broke up with monoliths in 2021, no regrets), Docker (if it breathes, it gets containerized).
+  <b>INFRASTRUCTURE FLAVORING:</b> Kubernetes, Helm (CKAD certified, the pods fear me), CI/CD, ArgoCD (push to main, close laptop, leave building), PostgreSQL, Redis, AWS (mostly bills).
+  <b>SPICES:</b> Kafka, RabbitMQ, gRPC (my services talk more than I do).
+  <b>EXPERIMENTAL ADDITIVES:</b> Python, FastAPI (learning the dark arts of indentation).
+  <b>INACTIVE INGREDIENTS:</b> mass caffeine, mass mass mass YAML files, mass mass mass 3am git commits, mass mass mass mass mass mass mass mass mass questionable mass mass mass life choices, and mass trace amounts of mass mass mass mass mass Stack Overflow.
+</p>
 
-<table align="center">
-  <tr><td colspan="2"><b>&nbsp;&#129372; PRIMARY ACTIVE INGREDIENTS</b></td></tr>
-  <tr>
-    <td align="right"><b>Node.js / NestJS</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; it's giving main character energy</td>
-  </tr>
-  <tr>
-    <td align="right"><b>TypeScript</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; <code>any</code> is banned in this household</td>
-  </tr>
-  <tr>
-    <td align="right"><b>Microservices</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; broke up with monoliths in 2021. no regrets.</td>
-  </tr>
-  <tr>
-    <td align="right"><b>Docker</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; if it breathes, it gets containerized</td>
-  </tr>
-  <tr><td colspan="2"><b>&nbsp;&#129514; INFRASTRUCTURE FLAVORING (may be addictive)</b></td></tr>
-  <tr>
-    <td align="right"><b>Kubernetes / Helm</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601; 8/10 &mdash; certified pod whisperer. the pods fear me.</td>
-  </tr>
-  <tr>
-    <td align="right"><b>CI/CD / ArgoCD</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601; 8/10 &mdash; push to main. close laptop. leave building.</td>
-  </tr>
-  <tr>
-    <td align="right"><b>PostgreSQL / Redis</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601; 8/10 &mdash; SELECT * FROM skills WHERE impressive = true</td>
-  </tr>
-  <tr>
-    <td align="right"><b>AWS</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601; 7/10 &mdash; I too enjoy paying for things I forgot to turn off</td>
-  </tr>
-  <tr>
-    <td align="right"><b>Kafka / RabbitMQ / gRPC</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601; 7/10 &mdash; my services talk more than I do</td>
-  </tr>
-  <tr><td colspan="2"><b>&nbsp;&#129514; EXPERIMENTAL (consume at own risk)</b></td></tr>
-  <tr>
-    <td align="right"><b>Python / FastAPI</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601;&#9601; 6/10 &mdash; learning the dark arts of indentation</td>
-  </tr>
-  <tr><td colspan="2"><hr></td></tr>
-  <tr>
-    <td align="right"><b>Coffee Dependency</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; LETHAL</td>
-  </tr>
-  <tr>
-    <td align="right"><b>YAML Tolerance</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; TRANSCENDED HUMANITY</td>
-  </tr>
-  <tr>
-    <td align="right"><b>Ability to Fix Bugs at 3am</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; CONCERNING</td>
-  </tr>
-  <tr>
-    <td align="right"><b>Daily Value of Bugs</b></td>
-    <td>0%*</td>
-  </tr>
-  <tr>
-    <td colspan="2"><sub>*This statement has not been evaluated by QA. This developer is not intended to diagnose, treat, cure, or prevent any production incidents. (But he will try anyway at 3am.)</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <sub>This developer has not been evaluated by QA. Not intended to diagnose, treat, cure, or prevent any production incidents. (But he will try anyway at 3am.)</sub>
+</p>
 
 ---
 
