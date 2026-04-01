@@ -1,4 +1,4 @@
-<svg width="800" height="1520" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="1640" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #1a1b26; }
     .bg-alt { fill: #1e2030; }
@@ -31,7 +31,7 @@
   </style>
 
   <!-- Background -->
-  <rect class="bg" width="800" height="1520" rx="10" ry="10"/>
+  <rect class="bg" width="800" height="1640" rx="10" ry="10"/>
 
   <!-- Section backgrounds (alternating) -->
   <!-- ssh login: default bg -->
@@ -39,13 +39,13 @@
   <rect class="bg-alt" x="0" y="195" width="800" height="100" />
   <!-- skills.conf: default bg -->
   <!-- docker ps: alt -->
-  <rect class="bg-alt" x="0" y="730" width="800" height="140" />
+  <rect class="bg-alt" x="0" y="850" width="800" height="140" />
   <!-- curl health: default bg -->
   <!-- reviews.log: alt -->
-  <rect class="bg-alt" x="0" y="1070" width="800" height="120" />
+  <rect class="bg-alt" x="0" y="1190" width="800" height="120" />
   <!-- motd: default bg -->
   <!-- contact: alt -->
-  <rect class="bg-alt" x="0" y="1310" width="800" height="85" />
+  <rect class="bg-alt" x="0" y="1430" width="800" height="85" />
 
   <!-- Title bar -->
   <rect class="titlebar" width="800" height="36" rx="10" ry="10"/>
@@ -98,59 +98,65 @@
   <text class="key" x="20" y="685">python</text><text class="dim" x="160" y="685">=</text><text class="value" x="175" y="685">learning the dark arts</text>
   <text class="key" x="20" y="705">fastapi</text><text class="dim" x="160" y="705">=</text><text class="value" x="175" y="705">in progress</text>
 
-  <!-- docker ps -->
-  <text class="prompt" x="20" y="745">$</text>
-  <text class="command" x="35" y="745">docker ps</text>
+  <text class="section" x="20" y="735">[currently]</text>
+  <text class="key" x="20" y="755">leetcode</text><text class="dim" x="160" y="755">=</text><text class="value" x="175" y="755">grinding medium. pretending hard is fine.</text>
+  <text class="key" x="20" y="775">system_design</text><text class="dim" x="160" y="775">=</text><text class="value" x="175" y="775">drawing boxes and arrows. calling it architecture.</text>
+  <text class="key" x="20" y="795">ai</text><text class="dim" x="160" y="795">=</text><text class="value" x="175" y="795">mass FOMO. every week there's a new model that makes me feel behind.</text>
+  <text class="key" x="20" y="815">nvim</text><text class="dim" x="160" y="815">=</text><text class="value" x="175" y="815">btw i use neovim. yes i will bring it up unprompted.</text>
 
-  <text class="dim" x="20" y="775">CONTAINER ID   IMAGE                       STATUS         NAMES</text>
-  <text class="yellow" x="20" y="795">a1b2c3d4e5f6</text><text class="cyan" x="135" y="795">   harrylowkey/superset</text><text class="green" x="370" y="795">   Up 69 days</text><text class="string" x="490" y="795">   "become ungovernable"</text>
-  <text class="yellow" x="20" y="815">f6e5d4c3b2a1</text><text class="cyan" x="135" y="815">   harrylowkey/claude-plugins</text><text class="green" x="370" y="815">   Up 42 days</text><text class="string" x="490" y="815">   "batteries included"</text>
-  <text class="yellow" x="20" y="835">b2c3d4e5f6a1</text><text class="cyan" x="135" y="835">   harrylowkey/whatIlearn</text><text class="green" x="370" y="835">   Up 365 days</text><text class="string" x="490" y="835">   "doctors hate him"</text>
-  <text class="yellow" x="20" y="855">c3d4e5f6a1b2</text><text class="cyan" x="135" y="855">   harrylowkey/PyNest</text><text class="green" x="370" y="855">   Up 120 days</text><text class="string" x="490" y="855">   "NestJS + Python baby"</text>
+  <!-- docker ps -->
+  <text class="prompt" x="20" y="865">$</text>
+  <text class="command" x="35" y="865">docker ps</text>
+
+  <text class="dim" x="20" y="895">CONTAINER ID   IMAGE                       STATUS         NAMES</text>
+  <text class="yellow" x="20" y="915">a1b2c3d4e5f6</text><text class="cyan" x="135" y="915">   harrylowkey/superset</text><text class="green" x="370" y="915">   Up 69 days</text><text class="string" x="490" y="915">   "become ungovernable"</text>
+  <text class="yellow" x="20" y="935">f6e5d4c3b2a1</text><text class="cyan" x="135" y="935">   harrylowkey/claude-plugins</text><text class="green" x="370" y="935">   Up 42 days</text><text class="string" x="490" y="935">   "batteries included"</text>
+  <text class="yellow" x="20" y="955">b2c3d4e5f6a1</text><text class="cyan" x="135" y="955">   harrylowkey/whatIlearn</text><text class="green" x="370" y="955">   Up 365 days</text><text class="string" x="490" y="955">   "doctors hate him"</text>
+  <text class="yellow" x="20" y="975">c3d4e5f6a1b2</text><text class="cyan" x="135" y="975">   harrylowkey/PyNest</text><text class="green" x="370" y="975">   Up 120 days</text><text class="string" x="490" y="975">   "NestJS + Python baby"</text>
 
   <!-- curl health -->
-  <text class="prompt" x="20" y="895">$</text>
-  <text class="command" x="35" y="895">curl -s localhost/health</text>
+  <text class="prompt" x="20" y="1015">$</text>
+  <text class="command" x="35" y="1015">curl -s localhost/health</text>
 
-  <text class="json-brace" x="20" y="925">{</text>
-  <text class="json-key" x="35" y="945">"status"</text><text class="json-brace" x="105" y="945">:</text><text class="json-string" x="120" y="945">"matcha-powered"</text><text class="json-brace" x="250" y="945">,</text>
-  <text class="json-key" x="35" y="965">"uptime"</text><text class="json-brace" x="105" y="965">:</text><text class="json-string" x="120" y="965">"5+ years"</text><text class="json-brace" x="210" y="965">,</text>
-  <text class="json-key" x="35" y="985">"last_incident"</text><text class="json-brace" x="155" y="985">:</text><text class="json-string" x="170" y="985">"we don't talk about that"</text><text class="json-brace" x="405" y="985">,</text>
-  <text class="json-key" x="35" y="1005">"bugs"</text><text class="json-brace" x="85" y="1005">:</text><text class="json-number" x="100" y="1005">0</text><text class="json-brace" x="110" y="1005">,</text>
-  <text class="json-key" x="35" y="1025">"bugs_disclaimer"</text><text class="json-brace" x="175" y="1025">:</text><text class="json-string" x="190" y="1025">"this field may be lying"</text>
-  <text class="json-brace" x="20" y="1045">}</text>
+  <text class="json-brace" x="20" y="1045">{</text>
+  <text class="json-key" x="35" y="1065">"status"</text><text class="json-brace" x="105" y="1065">:</text><text class="json-string" x="120" y="1065">"matcha-powered"</text><text class="json-brace" x="250" y="1065">,</text>
+  <text class="json-key" x="35" y="1085">"uptime"</text><text class="json-brace" x="105" y="1085">:</text><text class="json-string" x="120" y="1085">"5+ years"</text><text class="json-brace" x="210" y="1085">,</text>
+  <text class="json-key" x="35" y="1105">"last_incident"</text><text class="json-brace" x="155" y="1105">:</text><text class="json-string" x="170" y="1105">"we don't talk about that"</text><text class="json-brace" x="405" y="1105">,</text>
+  <text class="json-key" x="35" y="1125">"bugs"</text><text class="json-brace" x="85" y="1125">:</text><text class="json-number" x="100" y="1125">0</text><text class="json-brace" x="110" y="1125">,</text>
+  <text class="json-key" x="35" y="1145">"bugs_disclaimer"</text><text class="json-brace" x="175" y="1145">:</text><text class="json-string" x="190" y="1145">"this field may be lying"</text>
+  <text class="json-brace" x="20" y="1165">}</text>
 
   <!-- reviews.log -->
-  <text class="prompt" x="20" y="1085">$</text>
-  <text class="command" x="35" y="1085">cat /var/log/reviews.log</text>
+  <text class="prompt" x="20" y="1205">$</text>
+  <text class="command" x="35" y="1205">cat /var/log/reviews.log</text>
 
-  <text class="dim" x="20" y="1115">[2026-03-15 02:14:33]</text><text class="info" x="190" y="1115"> INFO </text><text class="string" x="240" y="1115"> "Deployed his code. Nothing caught fire."</text><text class="dim" x="618" y="1115"> - relieved-pm</text>
-  <text class="dim" x="20" y="1135">[2026-02-28 04:20:00]</text><text class="warn" x="190" y="1135"> WARN </text><text class="string" x="240" y="1135"> "Refactored our codebase overnight. Didn't ask."</text><text class="dim" x="640" y="1135"> - confused-cto</text>
-  <text class="dim" x="20" y="1155">[2026-01-12 03:00:01]</text><text class="error" x="190" y="1155"> ERROR</text><text class="string" x="240" y="1155"> "Please stop force pushing to main."</text><text class="dim" x="570" y="1155"> - former-colleague</text>
-  <text class="dim" x="20" y="1175">[2025-11-03 23:59:59]</text><text class="debug" x="190" y="1175"> DEBUG</text><text class="string" x="240" y="1175"> "Explained K8s for 45 min. Understood nothing."</text><text class="dim" x="640" y="1175"> - frontend-dev</text>
+  <text class="dim" x="20" y="1235">[2026-03-15 02:14:33]</text><text class="info" x="190" y="1235"> INFO </text><text class="string" x="240" y="1235"> "Deployed his code. Nothing caught fire."</text><text class="dim" x="618" y="1235"> - relieved-pm</text>
+  <text class="dim" x="20" y="1255">[2026-02-28 04:20:00]</text><text class="warn" x="190" y="1255"> WARN </text><text class="string" x="240" y="1255"> "Refactored our codebase overnight. Didn't ask."</text><text class="dim" x="640" y="1255"> - confused-cto</text>
+  <text class="dim" x="20" y="1275">[2026-01-12 03:00:01]</text><text class="error" x="190" y="1275"> ERROR</text><text class="string" x="240" y="1275"> "Please stop force pushing to main."</text><text class="dim" x="570" y="1275"> - former-colleague</text>
+  <text class="dim" x="20" y="1295">[2025-11-03 23:59:59]</text><text class="debug" x="190" y="1295"> DEBUG</text><text class="string" x="240" y="1295"> "Explained K8s for 45 min. Understood nothing."</text><text class="dim" x="640" y="1295"> - frontend-dev</text>
 
   <!-- motd warnings -->
-  <text class="prompt" x="20" y="1215">$</text>
-  <text class="command" x="35" y="1215">cat /etc/motd</text>
+  <text class="prompt" x="20" y="1335">$</text>
+  <text class="command" x="35" y="1335">cat /etc/motd</text>
 
-  <text class="error" x="20" y="1245">WARNING:</text><text class="output" x="100" y="1245"> May decompose your monolith into 47 microservices.</text>
-  <text class="error" x="20" y="1265">IF SWALLOWED:</text><text class="output" x="130" y="1265"> kubectl rollout undo deployment/harry</text>
-  <text class="error" x="20" y="1285">KEEP AWAY FROM:</text><text class="output" x="150" y="1285"> production databases without backups</text>
+  <text class="error" x="20" y="1365">WARNING:</text><text class="output" x="100" y="1365"> May decompose your monolith into 47 microservices.</text>
+  <text class="error" x="20" y="1385">IF SWALLOWED:</text><text class="output" x="130" y="1385"> kubectl rollout undo deployment/harry</text>
+  <text class="error" x="20" y="1405">KEEP AWAY FROM:</text><text class="output" x="150" y="1405"> production databases without backups</text>
 
   <!-- links -->
-  <text class="prompt" x="20" y="1325">$</text>
-  <text class="command" x="35" y="1325">cat /etc/contact.conf</text>
+  <text class="prompt" x="20" y="1445">$</text>
+  <text class="command" x="35" y="1445">cat /etc/contact.conf</text>
 
-  <text class="key" x="20" y="1355">web</text><text class="dim" x="80" y="1355">=</text><text class="link" x="95" y="1355">https://harrylowkey.dev</text>
-  <text class="key" x="20" y="1375">instagram</text><text class="dim" x="100" y="1375">=</text><text class="link" x="115" y="1375">@coding.easily</text>
+  <text class="key" x="20" y="1475">web</text><text class="dim" x="80" y="1475">=</text><text class="link" x="95" y="1475">https://harrylowkey.dev</text>
+  <text class="key" x="20" y="1495">instagram</text><text class="dim" x="100" y="1495">=</text><text class="link" x="115" y="1495">@coding.easily</text>
 
   <!-- closing -->
-  <text class="prompt" x="20" y="1415">$</text>
-  <text class="command" x="35" y="1415">exit</text>
-  <text class="dim" x="20" y="1440">Connection to harry@production closed.</text>
+  <text class="prompt" x="20" y="1535">$</text>
+  <text class="command" x="35" y="1535">exit</text>
+  <text class="dim" x="20" y="1560">Connection to harry@production closed.</text>
 
   <!-- cursor blink -->
-  <rect x="20" y="1460" width="8" height="16" fill="#c0caf5">
+  <rect x="20" y="1580" width="8" height="16" fill="#c0caf5">
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>

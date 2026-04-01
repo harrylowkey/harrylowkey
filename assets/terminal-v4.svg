@@ -101,7 +101,7 @@
   <text class="section" x="20" y="735">[currently]</text>
   <text class="key" x="20" y="755">leetcode</text><text class="dim" x="160" y="755">=</text><text class="value" x="175" y="755">grinding medium. pretending hard is fine.</text>
   <text class="key" x="20" y="775">system_design</text><text class="dim" x="160" y="775">=</text><text class="value" x="175" y="775">drawing boxes and arrows. calling it architecture.</text>
-  <text class="key" x="20" y="795">ai</text><text class="dim" x="160" y="795">=</text><text class="value" x="175" y="795">mass FOMO. every week there's a new model that makes me feel behind.</text>
+  <text class="key" x="20" y="795">ai</text><text class="dim" x="160" y="795">=</text><text class="value" x="175" y="795">permanent FOMO. every week a new model drops and I question everything.</text>
   <text class="key" x="20" y="815">nvim</text><text class="dim" x="160" y="815">=</text><text class="value" x="175" y="815">btw i use neovim. yes i will bring it up unprompted.</text>
 
   <!-- docker ps -->
