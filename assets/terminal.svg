@@ -47,8 +47,8 @@
   <text class="prompt" x="20" y="65">$</text>
   <text class="command" x="35" y="65">ssh harry@production</text>
 
-  <text class="dim" x="20" y="90">Last login: Mon Mar 31 03:14:07 2026 from mass-caffeine-overdose</text>
-  <text class="green" x="20" y="110">Welcome to HarryOS 2.1.0 LTS (GNU/Caffeinated)</text>
+  <text class="dim" x="20" y="90">Last login: Mon Mar 31 03:14:07 2026 from mass-matcha-overdose</text>
+  <text class="green" x="20" y="110">Welcome to HarryOS 2.1.0 LTS (GNU/Matchated)</text>
   <text class="output" x="20" y="135"> * Documentation:  </text><text class="link" x="175" y="135">https://harrylowkey.dev</text>
   <text class="output" x="20" y="155"> * Support:        lol good luck</text>
   <text class="output" x="20" y="175"> * System uptime:  5+ years (no downtime except that one time)</text>
@@ -113,7 +113,7 @@
   <text class="command" x="35" y="895">curl -s localhost/health</text>
 
   <text class="json-brace" x="20" y="925">{</text>
-  <text class="json-key" x="35" y="945">"status"</text><text class="json-brace" x="105" y="945">:</text><text class="json-string" x="120" y="945">"caffeinated"</text><text class="json-brace" x="230" y="945">,</text>
+  <text class="json-key" x="35" y="945">"status"</text><text class="json-brace" x="105" y="945">:</text><text class="json-string" x="120" y="945">"matchated"</text><text class="json-brace" x="230" y="945">,</text>
   <text class="json-key" x="35" y="965">"uptime"</text><text class="json-brace" x="105" y="965">:</text><text class="json-string" x="120" y="965">"5+ years"</text><text class="json-brace" x="210" y="965">,</text>
   <text class="json-key" x="35" y="985">"last_incident"</text><text class="json-brace" x="155" y="985">:</text><text class="json-string" x="170" y="985">"we don't talk about that"</text><text class="json-brace" x="405" y="985">,</text>
   <text class="json-key" x="35" y="1005">"bugs"</text><text class="json-brace" x="85" y="1005">:</text><text class="json-number" x="100" y="1005">0</text><text class="json-brace" x="110" y="1005">,</text>
