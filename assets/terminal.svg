@@ -53,6 +53,9 @@
   <text class="output" x="20" y="155"> * Support:        lol good luck</text>
   <text class="output" x="20" y="175"> * System uptime:  5+ years (no downtime except that one time)</text>
 
+  <!-- divider -->
+  <line x1="20" y1="193" x2="780" y2="193" stroke="#24283b" stroke-width="1"/>
+
   <!-- whoami -->
   <text class="prompt" x="20" y="210">$</text>
   <text class="command" x="35" y="210">whoami</text>
@@ -60,6 +63,9 @@
   <text class="white" x="20" y="240" font-weight="bold" font-size="15" font-family="monospace">Harry Dang</text>
   <text class="output" x="20" y="260">Backend Lead</text><text class="dim" x="120" y="260"> | </text><text class="output" x="135" y="260">Microservices Architect</text><text class="dim" x="320" y="260"> | </text><text class="cyan" x="335" y="260">CKAD Certified</text>
   <text class="dim" x="20" y="280">Locally sourced from Vietnam. Deployed globally.</text>
+
+  <!-- divider -->
+  <line x1="20" y1="298" x2="780" y2="298" stroke="#24283b" stroke-width="1"/>
 
   <!-- cat skills.conf -->
   <text class="prompt" x="20" y="315">$</text>
@@ -86,6 +92,9 @@
   <text class="key" x="20" y="685">python</text><text class="dim" x="160" y="685">=</text><text class="value" x="175" y="685">learning the dark arts</text>
   <text class="key" x="20" y="705">fastapi</text><text class="dim" x="160" y="705">=</text><text class="value" x="175" y="705">in progress</text>
 
+  <!-- divider -->
+  <line x1="20" y1="728" x2="780" y2="728" stroke="#24283b" stroke-width="1"/>
+
   <!-- docker ps -->
   <text class="prompt" x="20" y="745">$</text>
   <text class="command" x="35" y="745">docker ps</text>
@@ -95,6 +104,9 @@
   <text class="yellow" x="20" y="815">f6e5d4c3b2a1</text><text class="cyan" x="135" y="815">   harrylowkey/claude-plugins</text><text class="green" x="370" y="815">   Up 42 days</text><text class="string" x="490" y="815">   "batteries included"</text>
   <text class="yellow" x="20" y="835">b2c3d4e5f6a1</text><text class="cyan" x="135" y="835">   harrylowkey/whatIlearn</text><text class="green" x="370" y="835">   Up 365 days</text><text class="string" x="490" y="835">   "doctors hate him"</text>
   <text class="yellow" x="20" y="855">c3d4e5f6a1b2</text><text class="cyan" x="135" y="855">   harrylowkey/PyNest</text><text class="green" x="370" y="855">   Up 120 days</text><text class="string" x="490" y="855">   "NestJS + Python baby"</text>
+
+  <!-- divider -->
+  <line x1="20" y1="878" x2="780" y2="878" stroke="#24283b" stroke-width="1"/>
 
   <!-- curl health -->
   <text class="prompt" x="20" y="895">$</text>
@@ -108,6 +120,9 @@
   <text class="json-key" x="35" y="1025">"bugs_disclaimer"</text><text class="json-brace" x="175" y="1025">:</text><text class="json-string" x="190" y="1025">"this field may be lying"</text>
   <text class="json-brace" x="20" y="1045">}</text>
 
+  <!-- divider -->
+  <line x1="20" y1="1068" x2="780" y2="1068" stroke="#24283b" stroke-width="1"/>
+
   <!-- reviews.log -->
   <text class="prompt" x="20" y="1085">$</text>
   <text class="command" x="35" y="1085">cat /var/log/reviews.log</text>
@@ -117,6 +132,9 @@
   <text class="dim" x="20" y="1155">[2026-01-12 03:00:01]</text><text class="error" x="190" y="1155"> ERROR</text><text class="string" x="240" y="1155"> "Please stop force pushing to main."</text><text class="dim" x="570" y="1155"> - former-colleague</text>
   <text class="dim" x="20" y="1175">[2025-11-03 23:59:59]</text><text class="debug" x="190" y="1175"> DEBUG</text><text class="string" x="240" y="1175"> "Explained K8s for 45 min. Understood nothing."</text><text class="dim" x="640" y="1175"> - frontend-dev</text>
 
+  <!-- divider -->
+  <line x1="20" y1="1198" x2="780" y2="1198" stroke="#24283b" stroke-width="1"/>
+
   <!-- motd warnings -->
   <text class="prompt" x="20" y="1215">$</text>
   <text class="command" x="35" y="1215">cat /etc/motd</text>
@@ -125,12 +143,18 @@
   <text class="error" x="20" y="1265">IF SWALLOWED:</text><text class="output" x="130" y="1265"> kubectl rollout undo deployment/harry</text>
   <text class="error" x="20" y="1285">KEEP AWAY FROM:</text><text class="output" x="150" y="1285"> production databases without backups</text>
 
+  <!-- divider -->
+  <line x1="20" y1="1308" x2="780" y2="1308" stroke="#24283b" stroke-width="1"/>
+
   <!-- links -->
   <text class="prompt" x="20" y="1325">$</text>
   <text class="command" x="35" y="1325">cat /etc/contact.conf</text>
 
   <text class="key" x="20" y="1355">web</text><text class="dim" x="80" y="1355">=</text><text class="link" x="95" y="1355">https://harrylowkey.dev</text>
   <text class="key" x="20" y="1375">instagram</text><text class="dim" x="100" y="1375">=</text><text class="link" x="115" y="1375">@coding.easily</text>
+
+  <!-- divider -->
+  <line x1="20" y1="1398" x2="780" y2="1398" stroke="#24283b" stroke-width="1"/>
 
   <!-- closing -->
   <text class="prompt" x="20" y="1415">$</text>
