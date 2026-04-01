@@ -6,43 +6,43 @@ Last login: Mon Mar 31 03:14:07 2026 from mass-caffeine-overdose
 Welcome to HarryOS 2.1.0 LTS (GNU/Caffeinated)
 
  * Documentation:  https://harrylowkey.dev
- * Support:        mass mass mass mass mass lol mass good luck
- * System uptime:  5+ years mass mass mass (mass mass mass mass mass no mass mass mass mass mass mass mass mass mass mass mass mass mass mass downtime mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass except that one mass mass mass mass mass mass mass mass mass time)
+ * Support:        lol good luck
+ * System uptime:  5+ years (no downtime except that one time)
 ```
 
 ```bash
 $ whoami
 ```
 ```
-Harry Dang mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass
-Backend Lead mass | mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass Microservices Architect mass | mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass CKAD Certified
-Locally sourced mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass from mass mass mass mass mass mass mass Vietnam. mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass Deployed globally.
+Harry Dang
+Backend Lead | Microservices Architect | CKAD Certified
+Locally sourced from Vietnam. Deployed globally.
 ```
 
 ```bash
-$ mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass cat mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass /etc/mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass skills.conf
+$ cat /etc/skills.conf
 ```
 ```ini
 [core]
-nodejs          = mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass loaded
-nestjs          = mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass main mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass character mass mass mass mass mass mass mass mass mass mass mass mass mass energy
-typescript      = `any` mass mass mass mass mass mass mass mass mass mass mass mass is mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass illegal mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass here
-docker          = mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass if it mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass breathes, it mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass gets containerized
-microservices   = broke mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass up mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass with monoliths mass mass mass mass mass mass mass mass mass mass mass in 2021
+nodejs          = loaded
+nestjs          = main character energy
+typescript      = `any` is illegal here
+docker          = if it breathes, it gets containerized
+microservices   = broke up with monoliths in 2021
 
 [infra]
 kubernetes      = certified. the pods fear me.
 cicd            = push to main. close laptop. leave building.
-postgresql      = SELECT * FROM mass skills WHERE mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass impressive mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass = mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass true
+postgresql      = SELECT * FROM skills WHERE impressive = true
 redis           = loaded
-aws             = mostly mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass bills
-kafka           = mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass streaming
+aws             = mostly bills
+kafka           = streaming
 rabbitmq        = queued
 grpc            = my services talk more than I do
 
 [experimental]
-python          = learning the mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass dark mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass arts
-fastapi         = mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass in progress
+python          = learning the dark arts
+fastapi         = in progress
 ```
 
 ```bash
@@ -52,25 +52,25 @@ $ docker ps
 CONTAINER ID   IMAGE                       STATUS          PORTS     NAMES
 a1b2c3d4e5f6   harrylowkey/superset        Up 69 days      :443     "run an ARMY of AI agents. become ungovernable."
 f6e5d4c3b2a1   harrylowkey/claude-plugins  Up 42 days      :443     "multi-agent chaos. batteries included."
-b2c3d4e5f6a1   harrylowkey/whatIlearn      Up 365 days     :443     "he learned mass things. doctors hate him."
+b2c3d4e5f6a1   harrylowkey/whatIlearn      Up 365 days     :443     "he learned things. doctors hate him."
 c3d4e5f6a1b2   harrylowkey/PyNest          Up 120 days     :443     "NestJS + Python had a baby"
 ```
 
 ```bash
-$ curl -s localhost/mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass health
+$ curl -s localhost/health
 ```
 ```json
 {
-  "status": "mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass caffeinated",
-  "mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass uptime": "mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass 5+ years",
-  "mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass last_mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass incident": "we don't mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass talk about mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass that",
+  "status": "caffeinated",
+  "uptime": "5+ years",
+  "last_incident": "we don't talk about that",
   "bugs": 0,
-  "bugs_disclaimer": "mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass this field may be lying"
+  "bugs_disclaimer": "this field may be lying"
 }
 ```
 
 ```bash
-$ cat /var/log/mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass reviews.log
+$ cat /var/log/reviews.log
 ```
 ```
 [2026-03-15 02:14:33] INFO  "Deployed his code. Nothing caught fire." - relieved-pm
@@ -83,7 +83,7 @@ $ cat /var/log/mass mass mass mass mass mass mass mass mass mass mass mass mass 
 $ cat /etc/motd
 ```
 ```
- WARNING: mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass This developer mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass may mass mass mass mass mass mass mass mass mass mass mass mass mass mass spontaneously decompose mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass your monolith mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass into mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass 47 microservices.
+ WARNING: This developer may spontaneously decompose your monolith into 47 microservices.
  IF SWALLOWED: kubectl rollout undo deployment/harry
  KEEP AWAY FROM: production databases without backups
 ```
