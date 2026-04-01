@@ -1,83 +1,93 @@
 <h1 align="center">
   <br>
-  HARRY DANG&#8482;
+  &#9733; HARRY DANG&#8482; &#9733;
   <br>
-  <sup><sub>Back-end Lead &bull; Microservices Architect &bull; CKAD Certified &bull; Net Wt. 5+ Years of Production Code</sub></sup>
+  <sup><sub>PREMIUM BACKEND DEVELOPER &bull; ARTISANALLY CRAFTED &bull; LOCALLY SOURCED FROM VIETNAM</sub></sup>
 </h1>
 
 <p align="center">
-  <code>&#128250; AS SEEN ON: production servers near you</code>
+  <code>&#128250; AS SEEN ON: a mass production server that crashed once</code>
   <br>
-  <code>EST. 2019 &bull; SATISFACTION GUARANTEED OR YOUR BUGS BACK</code>
+  <code>&#128165; NOW WITH 40% MORE MICROSERVICES THAN THE LEADING COMPETITOR</code>
   <br>
-  <code>&#127942; CERTIFIED KUBERNETES APPLICATION DEVELOPER &bull; THE REAL DEAL</code>
+  <code>&#9742; CALL 1-800-DEPLOY-ME &bull; OPERATORS ARE STANDING BY (it's just me)</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CERTIFIED-KUBERNETES_APPLICATION_DEVELOPER-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/FDA-NOT_APPROVED-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WORKS_ON-MY_MACHINE-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
 <h2 align="center">&#9881; NUTRITION FACTS &#9881;</h2>
 
-<p align="center"><sub>Amount Per Developer &bull; Serving Size: 1 Full-Stack-ish Lead (100%)</sub></p>
+<p align="center"><sub>Serving Size: 1 Entire Developer &bull; Servings Per Container: Look, you only get one of me</sub></p>
 
 <table align="center">
-  <tr><td colspan="2"><b>&nbsp; CORE INGREDIENTS</b></td></tr>
+  <tr><td colspan="2"><b>&nbsp;&#129372; PRIMARY ACTIVE INGREDIENTS</b></td></tr>
   <tr>
     <td align="right"><b>Node.js / NestJS</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; the main course</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; it's giving main character energy</td>
   </tr>
   <tr>
     <td align="right"><b>TypeScript</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; type-safe or die trying</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; <code>any</code> is banned in this household</td>
   </tr>
   <tr>
     <td align="right"><b>Microservices</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; one monolith was enough</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; broke up with monoliths in 2021. no regrets.</td>
   </tr>
   <tr>
     <td align="right"><b>Docker</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; it works in my container</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601; 9/10 &mdash; if it breathes, it gets containerized</td>
   </tr>
-  <tr><td colspan="2"><b>&nbsp; INFRASTRUCTURE SEASONING</b></td></tr>
+  <tr><td colspan="2"><b>&nbsp;&#129514; INFRASTRUCTURE FLAVORING (may be addictive)</b></td></tr>
   <tr>
     <td align="right"><b>Kubernetes / Helm</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601; 8/10 &mdash; certified pod whisperer</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601; 8/10 &mdash; certified pod whisperer. the pods fear me.</td>
   </tr>
   <tr>
     <td align="right"><b>CI/CD / ArgoCD</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601; 8/10 &mdash; push to main and pray</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601; 8/10 &mdash; push to main. close laptop. leave building.</td>
   </tr>
   <tr>
     <td align="right"><b>PostgreSQL / Redis</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601; 8/10 &mdash; normalize this</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601; 8/10 &mdash; SELECT * FROM skills WHERE impressive = true</td>
   </tr>
   <tr>
     <td align="right"><b>AWS</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601; 7/10 &mdash; EKS, S3, Route53, IAM, bills</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601; 7/10 &mdash; I too enjoy paying for things I forgot to turn off</td>
   </tr>
   <tr>
     <td align="right"><b>Kafka / RabbitMQ / gRPC</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601; 7/10 &mdash; async everything</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601; 7/10 &mdash; my services talk more than I do</td>
   </tr>
-  <tr><td colspan="2"><b>&nbsp; EXPERIMENTAL ADDITIVES</b></td></tr>
+  <tr><td colspan="2"><b>&nbsp;&#129514; EXPERIMENTAL (consume at own risk)</b></td></tr>
   <tr>
     <td align="right"><b>Python / FastAPI</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601;&#9601; 6/10 &mdash; learning the snake arts</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9601;&#9601;&#9601;&#9601; 6/10 &mdash; learning the dark arts of indentation</td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td align="right"><b>Coffee Dependency</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; FATAL</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; LETHAL</td>
   </tr>
   <tr>
     <td align="right"><b>YAML Tolerance</b></td>
-    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; SUPERHUMAN</td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; TRANSCENDED HUMANITY</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Ability to Fix Bugs at 3am</b></td>
+    <td>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; CONCERNING</td>
   </tr>
   <tr>
     <td align="right"><b>Daily Value of Bugs</b></td>
     <td>0%*</td>
   </tr>
   <tr>
-    <td colspan="2"><sub>*Results may vary. This product has not been evaluated by any regulatory body.<br>Side effects may include mass refactoring of microservices at 2am and unsolicited architecture advice.</sub></td>
+    <td colspan="2"><sub>*This statement has not been evaluated by QA. This developer is not intended to diagnose, treat, cure, or prevent any production incidents. (But he will try anyway at 3am.)</sub></td>
   </tr>
 </table>
 
@@ -85,73 +95,89 @@
 
 <h2 align="center">&#128230; FEATURED PRODUCTS</h2>
 
-<p align="center"><sub>ORDER NOW &mdash; while pods last!</sub></p>
+<p align="center"><code>&#128226; ACT NOW! SUPPLIES ARE UNLIMITED BECAUSE IT'S OPEN SOURCE!</code></p>
 
 <table align="center">
   <tr>
     <td align="center" width="300">
       <h3>&#127775; superset</h3>
-      <p><i>"Tired of running ONE AI agent? Run an ARMY!"</i></p>
+      <p><i>"Are you TIRED of running ONE AI agent like some kind of PEASANT?"</i></p>
       <a href="https://github.com/harrylowkey/superset">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrylowkey&repo=superset&theme=dark" />
       </a>
-      <br><code>Code editor for the AI agents era</code>
+      <br><code>Run an ARMY of AI agents. Become ungovernable.</code>
     </td>
     <td align="center" width="300">
       <h3>&#127775; claude-code-plugins</h3>
-      <p><i>"But WAIT &mdash; there's more orchestration!"</i></p>
+      <p><i>"But WAIT &mdash; call in the next 0 minutes and get MULTI-AGENT ORCHESTRATION absolutely FREE!"</i></p>
       <a href="https://github.com/harrylowkey/claude-code-plugins">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrylowkey&repo=claude-code-plugins&theme=dark" />
       </a>
-      <br><code>Multi-agent automation. Batteries included.</code>
+      <br><code>Batteries, opinions, and chaos included.</code>
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
       <h3>&#127775; whatIlearn</h3>
-      <p><i>"Call now and get FREE knowledge! Operators standing by!"</i></p>
+      <p><i>"He learned things. He WROTE THEM DOWN. Doctors HATE him!"</i></p>
       <a href="https://github.com/harrylowkey/whatIlearn">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrylowkey&repo=whatIlearn&theme=dark" />
       </a>
-      <br><code>Side effects: sudden enlightenment</code>
+      <br><code>Side effects: sudden clarity, existential dread</code>
     </td>
     <td align="center" width="300">
       <h3>&#127775; PyNest</h3>
-      <p><i>"NestJS called. Python picked up."</i></p>
+      <p><i>"What if NestJS and Python had a baby and it was BEAUTIFUL?"</i></p>
       <a href="https://github.com/harrylowkey/PyNest">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=harrylowkey&repo=PyNest&theme=dark" />
       </a>
-      <br><code>FastAPI + NestJS architecture = *chef's kiss*</code>
+      <br><code>Finally. Architecture. In Python. It's happening.</code>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>*Documentation subject to availability. May consist entirely of <code>// TODO: add docs later lol</code></sub></p>
+<p align="center"><sub>*Documentation subject to availability. May consist entirely of <code>// TODO: write docs (last modified: 2 years ago)</code></sub></p>
+
+---
+
+<h2 align="center">&#11088; CUSTOMER TESTIMONIALS &#11088;</h2>
+
+<p align="center">
+  <i>"I deployed his code to production and nothing caught fire. 5 stars."</i> &mdash; <b>A Relieved PM</b>
+  <br><br>
+  <i>"He mass refactored our entire codebase overnight. We didn't ask him to. It was better."</i> &mdash; <b>A Confused CTO</b>
+  <br><br>
+  <i>"He mass explained Kubernetes to me for 45 minutes. I mass understood nothing. But his enthusiasm was inspiring."</i> &mdash; <b>A Frontend Developer</b>
+  <br><br>
+  <i>"Please mass stop mass mass mass force pushing to main."</i> &mdash; <b>A Former Colleague</b>
+</p>
 
 ---
 
 <h2 align="center">&#9888;&#65039; WARNING LABELS &#9888;&#65039;</h2>
 
 <p align="center">
-  <code>&#9888; WARNING: Will mass refactor your codebase if left unsupervised</code>
+  <code>&#9888; DO NOT OPERATE heavy mass machinery while mass reviewing his mass pull requests</code>
   <br><br>
-  <code>&#9888; CAUTION: May spontaneously decompose monoliths into microservices</code>
+  <code>&#9888; May spontaneously mass decompose your monolith into 47 microservices</code>
   <br><br>
-  <code>&#9888; NOTICE: Has mass force-pushed at least once. Learned nothing.</code>
+  <code>&#9888; Known to mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass force-push. Learns slower than he deploys.</code>
   <br><br>
-  <code>&#9888; ALLERGEN INFO: Contains 100% TypeScript. Traces of Python. YAML-heavy.</code>
+  <code>&#9888; ALLERGEN INFO: 100% TypeScript. Traces of Python. Contains YAML.</code>
   <br><br>
-  <code>&#9888; KEEP AWAY FROM: production databases without backups</code>
-  <br>
-  <sub>The manufacturer accepts no liability for incidents involving <code>kubectl delete namespace</code> at 3am.</sub>
+  <code>&#9888; IF SWALLOWED: kubectl rollout undo deployment/harry --to-revision=1</code>
+</p>
+
+<p align="center">
+  <sub>The manufacturer assumes no responsibility for mass incidents involving <code>DROP TABLE</code> on a Friday afternoon.</sub>
 </p>
 
 ---
 
-<h2 align="center">&#128222; CUSTOMER SERVICE</h2>
+<h2 align="center">&#128222; CUSTOMER SERVICE HOTLINE</h2>
 
 <p align="center">
-  For inquiries, complaints, bug reports, or mass amounts of fan mail:
+  For inquiries, mass complaints, mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass bug reports, or unsolicited mass mass mass mass mass mass mass mass mass mass mass mass architecture opinions:
 </p>
 
 <p align="center">
@@ -161,12 +187,14 @@
 </p>
 
 <p align="center">
-  <sub>Our customer service team is standing by. (It's just me. I'm the team.)</sub>
+  <sub>Average response time: mass faster than my mass CI/CD pipeline.<br>Our customer service department has a mass 100% rating (sample size: 1).</sub>
 </p>
 
 ---
 
-<h3 align="center">&#128203; PROOF OF QUALITY &mdash; LAB-TESTED RESULTS</h3>
+<h3 align="center">&#128203; PROOF OF QUALITY &mdash; INDEPENDENTLY VERIFIED*</h3>
+
+<p align="center"><sub>*Verified by me. Independently.</sub></p>
 
 <p align="center">
   <img width="600" src="https://streak-stats.demolab.com?user=harrylowkey&theme=highcontrast&hide_border=true&border_radius=5&card_width=600">
@@ -189,14 +217,16 @@
   <sub>
     <code>&#9612;&#9612;&#9612; &#9612;&#9612; &#9612;&#9612;&#9612;&#9612; &#9612;&#9612; &#9612;&#9612;&#9612; &#9612;&#9612;&#9612;&#9612; &#9612;&#9612; &#9612;&#9612;&#9612; &#9612;&#9612;&#9612;&#9612;</code>
     <br>
-    <b>HARRY DANG&#8482;</b> &mdash; v2.0.1-stable
+    <b>HARRY DANG&#8482;</b> &mdash; v2.0.1-stable (lie)
     <br>
-    Manufactured with mass quantities of caffeine and mass questionable architectural decisions.
+    Manufactured in mass mass Vietnam. Exported globally via <code>git push</code>.
     <br>
-    Ingredients: NestJS, TypeScript, Kubernetes, mass determination, mass YAML files.
+    Ingredients: mass NestJS, TypeScript, Kubernetes, mass mass mass mass mass caffeine, mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass mass questionable mass mass mass mass mass mass mass mass mass mass mass mass life choices, mass 3am commits.
     <br>
-    &copy; 2024 Harry Dang Inc. All rights reserved. No refunds. No rollbacks.
+    <b>BEST BEFORE:</b> mass mass mass &#8734; (developers don't mass expire, we just mass deprecate)
     <br>
-    <i>If this developer stops working, have you tried mass <code>kubectl rollout restart</code>?</i>
+    &copy; 2024 Harry Dang Inc. All rights reserved. No refunds. No rollbacks. No <code>git revert</code>.
+    <br>
+    <i>If this README crashes your browser, that's a feature.</i>
   </sub>
 </p>
